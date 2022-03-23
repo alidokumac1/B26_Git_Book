@@ -1,0 +1,14 @@
+
+
+So far we learned got flow for 
+comit --> push
+
+and 
+
+
+remote -> local 
+
+pull/update
+
+
+
